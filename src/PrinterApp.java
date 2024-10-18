@@ -1,8 +1,7 @@
 public class PrinterApp {
     public static void main(String[] args) {
-
+        \\ Title of the program \ app
         System.out.println("Printer App");
-        
         
         System.out.print("This app is made by: ");
         String creator = "Shohel";
