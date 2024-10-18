@@ -1,13 +1,13 @@
 public class PrinterApp {
     public static void main(String[] args) {
-        \\ Title of the program \ app
+        // Title of the program
         System.out.println("Printer App");
         
         System.out.print("This app is made by: ");
         String creator = "Shohel";
         System.out.println(creator);
         
-        
+        //initiated the variables
         double number1 = 12;
         double number2 = 10;
         // System.out.println(number1);
