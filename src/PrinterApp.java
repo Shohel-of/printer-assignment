@@ -14,7 +14,7 @@ public class PrinterApp {
         System.out.println("The value of number1 is " + number1);
         System.out.println("The value of number2 is " + number2);
 
-        
+        //multiplication
         double multiplication;
         multiplication = number1 * number2;
         System.out.println(number1 + " * " + number2 + " = " + multiplication);
